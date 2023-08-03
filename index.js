@@ -1,5 +1,5 @@
 
-
+//creation d'une function genereMessageAleatoire()
 function genererMessageAleatoire() {
     // Initialisation des valeurs
     const messages = [
@@ -11,6 +11,7 @@ function genererMessageAleatoire() {
         "Votre journée sera remplie d'énergie positive.",
         "Attendez-vous à rencontrer une personne spéciale aujourd'hui.",
         "Il est temps d'explorer de nouvelles opportunités.",
+      "vivons ",
     ];
 
     // Générer le message
