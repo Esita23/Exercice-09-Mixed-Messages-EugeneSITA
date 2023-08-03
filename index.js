@@ -12,7 +12,7 @@ function genererMessageAleatoire() {
         "Attendez-vous à rencontrer une personne spéciale aujourd'hui.",
         "Il est temps d'explorer de nouvelles opportunités.",
         "rigolons ensemble les blagues de la francofonie",
-        "rigolons ensemble les blagues de la francofonie",
+        "rigolons ensemble les blagues de la francofonie........",
     ];
 
     // Générer le message
